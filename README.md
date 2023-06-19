@@ -3,6 +3,6 @@ Memory Game : 自作の神経衰弱ゲーム,SystemMain.javaを実行するこ�
 
 LifeGame : セルオートマトンによるライフゲーム  
 
-Auction : オークションプログラム,AuctionPlayのより起動  
+Auction : オークションプログラム,AuctionPlayにより起動  
 
 Game : 囚人のジレンマの戦略プログラム  
