@@ -1,5 +1,5 @@
 # Java
-Memory Game : 自作の神経衰弱ゲーム,SystemMain.javaを実行することにより起動  
+Memory Game : 神経衰弱ゲーム,SystemMain.javaを実行することにより起動  
 
 LifeGame : セルオートマトンによるライフゲーム  
 
