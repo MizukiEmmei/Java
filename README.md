@@ -1,4 +1,4 @@
-# Java
+# game
 Memory Game : 神経衰弱ゲーム,SystemMain.javaを実行することにより起動  
 
 LifeGame : セルオートマトンによるライフゲーム  
